@@ -29,6 +29,6 @@ This project focuses on analyzing sales data to uncover insights that can drive 
 - SQL for data extraction and transformation
 - Python for data analysis and visualization
 - Excel for creating dashboards 
-- Pandas and Matplotlib for data manipulation and visualization in Python
+- Pandas ,Seaborn, and Matplotlib for data manipulation and visualization in Python
 
 
